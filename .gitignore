@@ -1,0 +1,18 @@
+# Arquivos gerados e configurações locais
+.DS_Store
+Thumbs.db
+*.exe
+*.out
+*.o
+*.obj
+*.class
+*.log
+build/
+dist/
+node_modules/
+.venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+programa
